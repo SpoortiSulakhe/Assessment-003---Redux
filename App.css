@@ -1,0 +1,27 @@
+
+ h1{
+  color: crimson;
+  text-align: center;
+  font-family: cursive;
+}
+
+.dropdown label{
+  margin-left: 25px;
+  font-weight: bold;
+
+}
+.dropdown select{
+  width:100px;
+  height:30px;
+  margin-left:25px;
+}
+ .dropdown{
+text-align: center;
+padding-top: 1em;
+font-family: cursive;
+
+ }
+
+ body{
+  background-color:lightcyan;
+ }
